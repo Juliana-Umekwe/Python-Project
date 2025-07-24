@@ -98,22 +98,30 @@ We recommend the following:
 1. Inventory Planning:
    - Continue focusing on the $2k–$4k price range to attract cost-conscious buyers.
    - Maintain a balance of affordable vehicles with low mileage to appeal to both price and quality seekers.
-   - 
+     
 2. Targeted Procurement:
    - Prioritize Ford and Chevrolet for stock replenishment due to higher profitability.
    - Evaluate conditions of high-mileage but high-priced vehicles for brand-based premium pricing strategy.
+
 3. Color Stock Strategy:
    - Maintain a strong stock of Silver, Black, and White vehicles — they sell well and appeal to a broad customer base.
    - Consider bundling marketing strategies (ads, promotions) around these colors.
 
-5. Brand-Level Promotions:
+4. Brand-Level Promotions:
    - Promote Toyota, Ford, and Chevrolet heavily — their popularity means faster sales turnover.
    - Consider extended warranty or service packages for these brands to boost sales volume.
 
-6. Data-Driven Pricing:
+5. Data-Driven Pricing:
    - Implement a pricing model based on mileage, brand, and color popularity to optimize profit while staying competitive.
 
-7. Market Research Extension:
+6. Market Research Extension:
    - Regularly monitor customer preferences and competitor pricing to keep the inventory aligned with market demand.
 
+ ### Limitations
+A limitation in data analysis reporting refers to any factor that restricts, weakens, or challenges the accuracy, scope, or generalizability of the analysis results.
+
+While the analysis provided key insights into car pricing and brand performance, limitations such as missing mileage data and lack of customer purchase history may have affected the completeness of the conclusions. Future analysis should aim to include these data points for a more comprehensive overview.”
+
+### References
+[Car Dataset](https://docs.google.com/spreadsheets/d/148gzCAxQno4wlIj_tzgUIyDTG8y4ifRr/edit?usp=sharing&ouid=107969485968939728677&rtpof=true&sd=true)
 
